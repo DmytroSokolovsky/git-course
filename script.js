@@ -1,0 +1,4 @@
+let element = document.createElement("div");
+element.innerHTML = "Hello";
+
+document.body.append(element);
